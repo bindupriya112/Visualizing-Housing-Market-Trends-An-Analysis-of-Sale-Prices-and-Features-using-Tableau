@@ -1,1 +1,1 @@
-project assinments
+project assignments
